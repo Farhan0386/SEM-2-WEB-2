@@ -2,7 +2,7 @@ import React ,{Component}from 'react'
 import { add as addition } from './utility'
 import style from "../css/Menu.module.css"
 import { Link, NavLink , useNavigate} from 'react-router-dom'
-// import ArtStyle from "../css/Article.module.css"
+import ArtStyle from "../css/Article.module.css"
 
 function Menu() {
 
